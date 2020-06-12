@@ -5,9 +5,9 @@ Discord bot to pick and manage flash fic prompts.
 
 ### Playing a Round
 
-`_play` - promptmaster chooses to start a round, players get 60 seconds to join before prompting begins (whoever issues this command automatically becomes the promptmaster)
-`_in` - player joins, can do so at any time during a round
-`_out` - player leaves the round
+* `_play` - promptmaster chooses to start a round, players get 60 seconds to join before prompting begins (whoever issues this command automatically becomes the promptmaster)
+* `_in` - player joins, can do so at any time during a round
+* `_out` - player leaves the round
 
 `_pick # letter @user` - promptmaster prompts a user to pick however many letters they want
 `_pick # genre @user` - promptmaster prompts a user to pick however many genres they want (whump and fluff supported)
