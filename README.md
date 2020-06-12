@@ -9,6 +9,7 @@ Discord bot to pick and manage flash fic prompts.
 * `_in` - player joins, can do so at any time during a round
 * `_out` - player leaves the round
 
+After 60 seconds, prompt selection begins.
 
 * `_pick # letter @user` - promptmaster prompts a user to pick however many letters they want
 * `_pick # genre @user` - promptmaster prompts a user to pick however many genres they want (whump and fluff supported)
